@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Wake Up - La rassegna che sveglia gli italiani</title>
+    <link>https://www.repubblica.it/rubriche/wake-up/2026/11/23/rubrica/wake_up_-_la_rassegna_che_sveglia_gli_italiani-425738372/</link>
+    <description>Feed RSS personale non ufficiale di Wake Up di Repubblica.</description>
+    <language>it-IT</language>
+    <copyright>Contenuti GEDI / la Repubblica</copyright>
+    <lastBuildDate>Tue, 24 Nov 2026 10:33:09 +0000</lastBuildDate>
+    <itunes:author>Antonio Fraschilla</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News" />
+    <itunes:image href="https://www.repstatic.it/video/photo/2026/11/23/1359831/1359831-thumb-spotify-800-wakeup_2311_podcast.jpg" />
+    <image>
+      <url>https://www.repstatic.it/video/photo/2026/11/23/1359831/1359831-thumb-spotify-800-wakeup_2311_podcast.jpg</url>
+      <title>Wake Up - La rassegna che sveglia gli italiani</title>
+      <link>https://www.repubblica.it/rubriche/wake-up/2026/11/23/rubrica/wake_up_-_la_rassegna_che_sveglia_gli_italiani-425738372/</link>
+    </image>
+    <item>
+      <title>La guerra tra Mosca e Kiev alle porte dell'Italia, la destra pensa a fermare i cortei degli studenti</title>
+      <description>La guerra tra Mosca e Kiev alle porte dell'Italia, la destra pensa a fermare i cortei degli studenti</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rep-locali:audio:425745476</guid>
+      <itunes:author>Antonio Fraschilla</itunes:author>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:image href="https://www.repstatic.it/video/photo/2026/11/24/1360311/1360311-thumb-spotify-800-wakeup_241126_podcast.jpg" />
+      <enclosure url="https://media.gedidigital.it/repubblicatv/file/2026/11/24/1360311/1360311-mp3-audio-128-wakeup_241126_podcast.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>I misteri di De Gennaro e il centrodestra in tilt in commissione Antimafia</title>
+      <description>I misteri di De Gennaro e il centrodestra in tilt in commissione Antimafia</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rep-locali:audio:425743054</guid>
+      <itunes:author>Antonio Fraschilla</itunes:author>
+      <itunes:duration>00:21:20</itunes:duration>
+      <itunes:image href="https://www.repstatic.it/video/photo/2026/11/23/1359831/1359831-thumb-spotify-800-wakeup_2311_podcast.jpg" />
+      <enclosure url="https://media.gedidigital.it/repubblicatv/file/2026/11/23/1359831/1359831-mp3-audio-128-wakeup_2311_podcast.mp3" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
