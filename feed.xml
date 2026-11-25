@@ -6,7 +6,7 @@
     <description>Feed RSS personale non ufficiale di Wake Up di Repubblica.</description>
     <language>it-IT</language>
     <copyright>Contenuti GEDI / la Repubblica</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 10:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:30:57 +0000</lastBuildDate>
     <itunes:author>Antonio Fraschilla</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -17,6 +17,16 @@
       <title>Wake Up - La rassegna che sveglia gli italiani</title>
       <link>https://www.repubblica.it/rubriche/wake-up/2026/11/23/rubrica/wake_up_-_la_rassegna_che_sveglia_gli_italiani-425738372/</link>
     </image>
+    <item>
+      <title>Le lettere di De Gennaro, i numeri veri dei femminicidi</title>
+      <description>Le lettere di De Gennaro, i numeri veri dei femminicidi</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rep-locali:audio:425748158</guid>
+      <itunes:author>Antonio Fraschilla</itunes:author>
+      <itunes:duration>00:23:08</itunes:duration>
+      <itunes:image href="https://www.repstatic.it/video/photo/2026/11/25/1360808/1360808-thumb-spotify-800-wakeup_2511_podcast.jpg" />
+      <enclosure url="https://media.gedidigital.it/repubblicatv/file/2026/11/25/1360808/1360808-mp3-audio-128-wakeup_2511_podcast.mp3" type="audio/mpeg" />
+    </item>
     <item>
       <title>La guerra tra Mosca e Kiev alle porte dell'Italia, la destra pensa a fermare i cortei degli studenti</title>
       <description>La guerra tra Mosca e Kiev alle porte dell'Italia, la destra pensa a fermare i cortei degli studenti</description>
