@@ -6,7 +6,7 @@
     <description>Feed RSS personale non ufficiale di Wake Up di Repubblica.</description>
     <language>it-IT</language>
     <copyright>Contenuti GEDI / la Repubblica</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 09:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:15:39 +0000</lastBuildDate>
     <itunes:author>Antonio Fraschilla</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -17,6 +17,16 @@
       <title>Wake Up - La rassegna che sveglia gli italiani</title>
       <link>https://www.repubblica.it/rubriche/wake-up/2026/11/23/rubrica/wake_up_-_la_rassegna_che_sveglia_gli_italiani-425738372/</link>
     </image>
+    <item>
+      <title>Le guerre nel mondo sempre più vicine all'Italia all'insaputa del governo</title>
+      <description>Le guerre nel mondo sempre più vicine all'Italia all'insaputa del governo</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">rep-locali:audio:425753844</guid>
+      <itunes:author>Antonio Fraschilla</itunes:author>
+      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:image href="https://www.repstatic.it/video/photo/2026/11/27/1361941/1361941-thumb-spotify-800-wakeup_2711_podcast.jpg" />
+      <enclosure url="https://media.gedidigital.it/repubblicatv/file/2026/11/27/1361941/1361941-mp3-audio-128-wakeup_2711_podcast.mp3" type="audio/mpeg" />
+    </item>
     <item>
       <title>Meloni, una manovra senza soldi mentre si avvicinano dazi e aumenti delle bollette</title>
       <description>Meloni, una manovra senza soldi mentre si avvicinano dazi e aumenti delle bollette</description>
